@@ -47,20 +47,11 @@ ul {
     list-style: none;
 }
 
-.top-navigation .links li.active {
-    color: #4c5058;
-    font-weight: 600;
-}
-
 .top-navigation .links li {
     display: inline-block;
     margin-left: 1.563rem;
 }
 
-.top-navigation .links li:hover {
-    cursor: pointer;
-    color: #333333;
-}
 .home,
 .basslights,
 .colorado{
